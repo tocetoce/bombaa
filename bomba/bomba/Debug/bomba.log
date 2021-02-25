@@ -1,0 +1,3 @@
+﻿  offwhite.cpp
+E:\c++\bomba\bomba\offwhite.cpp(29): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  bomba.vcxproj -> E:\c++\bomba\Debug\bomba.exe
